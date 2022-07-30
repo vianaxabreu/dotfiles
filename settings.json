@@ -69,11 +69,13 @@
     {
         "editor.tabSize": 4
     },
-    "python.pythonPath": "~/.pyenv/shims/python",
+    "python.pythonPath": "/Users/viana.abreu/.pyenv/versions/3.8.12/envs/lewagon/bin/python",
     "python.formatting.provider": "yapf",
     "ruby.lint":
     {
         "rubocop": true
     },
-    "workbench.startupEditor": "newUntitledFile"
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.editor.untitled.hint": "hidden",
+    "python.defaultInterpreterPath": "/Users/viana.abreu/.pyenv/versions/3.8.12/envs/lewagon/bin/python"
 }
